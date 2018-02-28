@@ -1,0 +1,8 @@
+#15/11/2017#
+#下载于https://sbforge.org/display/JWAT/JWAT
+#JWAT(Java Web Archive Toolkit)
+#删掉了很多没用的类
+#JWAT为ATRM(Anchor Text Retrieval Model)的蓝本
+#ATRM仅仅实现了在.warc文件中提取anchortext于href内容
+#不进行对各个包所含类的功能的描述，具体使用参照ATRM
+#仅仅用于纪念及紧急调用
