@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/chentairun/Documents/workspace/Library/jwat/jna-3.2.7.jar"/>
+	<classpathentry kind="lib" path="/Users/chentairun/Documents/workspace/Library/jwat/jwat-arc-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/chentairun/Documents/workspace/Library/jwat/jwat-archive-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/chentairun/Documents/workspace/Library/jwat/jwat-archive-common-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/chentairun/Documents/workspace/Library/jwat/jwat-common-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/chentairun/Documents/workspace/Library/jwat/jwat-gzip-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/chentairun/Documents/workspace/Library/jwat/jwat-tools-0.6.2.jar"/>
+	<classpathentry kind="lib" path="/Users/chentairun/Documents/workspace/Library/jwat/jwat-warc-1.0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
